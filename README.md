@@ -1,16 +1,18 @@
-## Hi there 👋
+# 一个问候 👋
 
-<!--
-**Ytha2005/Ytha2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 Ytha，一名学生开发者。我有使用 C++、Python 的经验。
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**联系我：**
+
+* [电子邮件](tianhao.yang@stu.xjtu.edu.cn)
+
+
+# Hello 👋
+
+I'm Ytha，a programer from Xi‘an Jiaotong University。
+
+**Connect with me：**
+
+* [email](tianhao.yang@stu.xjtu.edu.cn)
+
