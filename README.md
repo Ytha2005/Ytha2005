@@ -6,6 +6,7 @@
 
 * [电子邮件](tianhao.yang@stu.xjtu.edu.cn)
 * [我的博客](https://ytha2005.github.io/blog/)
+* [bilibili](https://space.bilibili.com/399751439)
 
 # Hello 👋
 
@@ -14,4 +15,5 @@ I'm Ytha，a programer from Xi‘an Jiaotong University。
 **Connect with me：**
 
 * [email](tianhao.yang@stu.xjtu.edu.cn)
-
+* [blog](https://ytha2005.github.io/blog/)
+* [bilibili](https://space.bilibili.com/399751439)
