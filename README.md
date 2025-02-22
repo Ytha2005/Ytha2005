@@ -5,7 +5,7 @@
 **联系我：**
 
 * [电子邮件](tianhao.yang@stu.xjtu.edu.cn)
-
+* [我的博客](https://ytha2005.github.io/blog/)
 
 # Hello 👋
 
